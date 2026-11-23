@@ -1,0 +1,3 @@
+# Ghosts'n Goblins: defaults for the root Makefile (GAME=ghosts-n-goblins).
+# Remix ROM: make patch PATCH=$(G)/dist/ghosts-n-goblins-remix.bps IN=... OUT=...
+PATCH ?= $(G)/dist/ghosts-n-goblins-invincible-spread.bps

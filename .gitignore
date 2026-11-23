@@ -1,0 +1,18 @@
+# Copyrighted input and generated ROMs: never commit
+*.nes
+*.fds
+rom/
+build/
+# Emulator/user files
+*.fc0
+*.fcs
+*.fcm
+*.fm2
+*.sav
+*.state
+*.mss
+__pycache__/
+*.pyc
+# Per-game test output and chat-chaos command files
+games/*/tests/out/
+games/*/tools/chaos/commands.txt
